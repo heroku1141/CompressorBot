@@ -1,6 +1,6 @@
 # This is a Telegram Video Compress Bot. Prouduct By Binary Tech 💫
 
-[![videocompressbot](https://telegra.ph/file/ec53b3315ac6b45af0236.jpg)](https://t.me/binary_lk)
+[![videocompressbot](https://telegra.ph/file/d34b738c38a99e875681c.jpg)](https://t.me/Gucci_obbo)
 
 ## Features
 - Compresse videos and generate screenshots too.You can set custom video name and Thumbnail.You can get logs videos to a channel .It takes little time to Compress.
