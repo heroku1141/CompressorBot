@@ -33,8 +33,8 @@ async def start(event):
         buttons=[
             [Button.inline("𝐇𝐄𝐋𝐏", data="ihelp")],
             [
-                Button.url("𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄", url="github.com/Silentzlk/CompressorBot"),
-                Button.url("𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏", url="t.me/Binary_bots_Support"),
+                Button.url("𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄", url="t.me/Gucci_obbo"),
+                Button.url("𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏", url="t.me/Gucci_obbo"),
             ],
         ],
     )
@@ -60,8 +60,8 @@ async def beck(event):
         buttons=[
             [Button.inline("𝐇𝐄𝐋𝐏", data="ihelp")],
             [
-                Button.url("𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄", url="github.com/Silentzlk/CompressorBot"),
-                Button.url("𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏", url="t.me/Binary_bots_Support"),
+                Button.url("𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄", url="t.me/Gucci_obbo"),
+                Button.url("𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏", url="t.me/Gucci_obbo"),
             ],
         ],
     )
@@ -106,9 +106,9 @@ async def ccom(e):
         repl = await reply
         if "." in repl.text:
             q = repl.text.split(".")[-1]
-            g = repl.text.replace(q, "mkv")
+            g = repl.text.replace(q, "mp4")
         else:
-            g = repl.text + ".mkv"
+            g = repl.text + ".mp4"
         outt = f"encode/{chat}/{g}"
         x = await repl.reply(
             f"Custom File Name : {g}\n\nSend Thumbnail Picture For it.🙂"
